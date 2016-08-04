@@ -1,5 +1,5 @@
 {
-    "name": "jeffchoy94610/telegram-bot",
+    "name": "jeffchoy94610/php-telegram-bot",
     "type": "library",
     "description": "Jeff PHP telegram bot",
     "keywords": ["telegram", "bot", "api"],
