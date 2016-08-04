@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Longman\\TelegramBot\\": "src/"
+            "Longman\\TelegramBot\\": "vendor/jeffchoy94610/php-telegram-bot/src"
         }
     },
     "autoload-dev": {
