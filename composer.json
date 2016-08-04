@@ -23,7 +23,7 @@
         "ext-curl": "*",
         "monolog/monolog": "^1.19",
         "guzzlehttp/guzzle": "~6.0"
-        "jeffchoy94610/php-telegram-bot": "*@dev" 
+        "jeffchoy94610/php-telegram-bot": "*" 
     },
     "autoload": {
         "psr-4": {
