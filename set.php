@@ -3,7 +3,7 @@
 require __DIR__ . '/vendor/autoload.php';
 $API_KEY = '242324050:AAG8_xykTkCuy02Y9xy86uSP3BXP00vFi90';
 $BOT_NAME = 'wwfaqbot';
-$hook_url = 'https://jeffhkc.com/wwfaq/src/hook.php';
+$hook_url = 'https://jeffhkc.com/wwfaq/php-telegram-bot/hook.php';
 try {
     // Create Telegram API object
     $telegram = new Longman\TelegramBot\Telegram($API_KEY, $BOT_NAME);
