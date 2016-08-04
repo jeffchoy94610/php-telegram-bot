@@ -1,7 +1,7 @@
 {
-    "name": "longman/telegram-bot",
+    "name": "jeffchoy94610/telegram-bot",
     "type": "library",
-    "description": "PHP telegram bot",
+    "description": "Jeff PHP telegram bot",
     "keywords": ["telegram", "bot", "api"],
     "license": "MIT",
     "homepage": "https://github.com/akalongman/php-telegram-bot",
