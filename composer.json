@@ -22,8 +22,8 @@
         "ext-pdo": "*",
         "ext-curl": "*",
         "monolog/monolog": "^1.19",
-        "guzzlehttp/guzzle": "~6.0"
-        "jeffchoy94610/php-telegram-bot": "*" 
+        "guzzlehttp/guzzle": "~6.0",
+        "jeffchoy94610/php-telegram-bot": "*@dev" 
     },
     "autoload": {
         "psr-4": {
