@@ -23,6 +23,7 @@
         "ext-curl": "*",
         "monolog/monolog": "^1.19",
         "guzzlehttp/guzzle": "~6.0"
+        "jeffchoy94610/php-telegram-bot": "*@dev" 
     },
     "autoload": {
         "psr-4": {
@@ -37,5 +38,19 @@
     "require-dev": {
         "phpunit/phpunit": "~4.8",
         "squizlabs/php_codesniffer": "~2.5"
-    }
+    },
+    "repositories": [
+        {
+            "type":"package",
+            "package": {
+              "name": "jeffchoy94610/php-telegram-bot",
+              "version":"master",
+              "source": {
+                  "url": "https://github.com/jeffchoy94610/php-telegram-bot.git",
+                  "type": "git",
+                  "reference":"master"
+                }
+            }
+        }
+    ]
 }
